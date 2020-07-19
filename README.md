@@ -1,16 +1,16 @@
-### Hi there 👋
+# Puranjay Mohan
+Hi, I'm Puranjay (he/his)— an electronics and firmware enthusiast who loves tinkering with technology and making things work. Worked on different projects involving cross-domain skills like IoT, Machine Learning, PCB design, and much more. I enjoy solving engineering problems and developing solutions to them using my vault of skills. I love adding new skills to this vault. I live in India and am currently a sophomore pursuing a bacherlors degree focusing on Electronics and Communication Engineering. 🚀
 
-<!--
-**puranjaymohan/puranjaymohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My values
+💖 Safety and trust<br>
+🌟 Truth and Reliability<br>
+🍏 Beginner's mindset and curiosity<br>
+🙌 Shared norms<br>
+🚀 Elevate the underrepresented
 
-Here are some ideas to get you started:
+## How I work
+My motivations are to cherish my curiosity and to continlusly feel the euphoria of learning something new everyday. Addiction to making things work and solving challenging problems allows me to work with focus for long hours. I love to improvise, adapt, and overcome.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch
+- LinkedIn: https://www.linkedin.com/in/puranjaymohan/
+- Email: puranjay12@gmail.com
