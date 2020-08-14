@@ -16,3 +16,4 @@ My motivations are to cherish my curiosity and to continlusly feel the euphoria 
 - Email: puranjay12@gmail.com
 
 ![Puranjay's github stats](https://github-readme-stats.vercel.app/api?username=puranjaymohan&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puranjaymohan&layout=compact&theme=dark)](https://github.com/puranjaymohan)
