@@ -14,3 +14,5 @@ My motivations are to cherish my curiosity and to continlusly feel the euphoria 
 ## Get in touch
 - LinkedIn: https://www.linkedin.com/in/puranjaymohan/
 - Email: puranjay12@gmail.com
+
+![Puranjay's github stats](https://github-readme-stats.vercel.app/api?username=puranjaymohan&show_icons=true&theme=dark)
