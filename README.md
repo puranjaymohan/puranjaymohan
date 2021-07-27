@@ -1,5 +1,5 @@
 # Puranjay Mohan
-Hi, I'm Puranjay — an electronics and firmware enthusiast who loves tinkering with technology and making things work. Worked on different projects involving cross-domain skills like IoT, Machine Learning, PCB design, and much more. I enjoy solving engineering problems and developing solutions to them using my vault of skills. I love adding new skills to this vault. I live in India and am currently a sophomore pursuing a bacherlors degree focusing on Electronics and Communication Engineering. 🚀
+Hi, I'm Puranjay — an electronics and firmware enthusiast who loves tinkering with technology and making things work. Worked on different projects involving cross-domain skills like linux kernel development, IoT, Machine Learning, PCB design, and much more. I enjoy solving engineering problems and developing solutions to them using my vault of skills. I love adding new skills to this vault. I live in India and am currently a junior pursuing a bacherlors degree focusing on Electronics and Communication Engineering. 🚀
 
 ## My values
 💖 Safety and trust<br>
